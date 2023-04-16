@@ -18,8 +18,8 @@ With Pytube, you can download YouTube videos programmatically and use them in yo
 
 There are 2 following simple projects in it.
 
-- 0-basic-download-script
-- 1-multi-download-script
+- basic-download-script
+- multi-download-script
 
 
 
