@@ -4,7 +4,7 @@
 
 Pytube is a Python library for downloading YouTube videos. It provides a simple and easy-to-use interface to download YouTube videos by using the YouTube video's URL. Pytube offers various features like downloading videos in different resolutions and formats, downloading only the audio or video streams of the video, and downloading only a part of the video by specifying the start and end time.
 
-Pytube is an open-source library and is available on PyPI, the Python Package Index, which makes it easy to install and use in your Python projects. Pytube uses Python's built-in libraries like 'urllib' and 'http.client' for the HTTP requests, and it uses the ''lxml'' library for parsing the HTML content of YouTube pages.
+Pytube is an open-source library and is available on PyPI, the Python Package Index, which makes it easy to install and use in your Python projects. Pytube uses Python's built-in libraries like 'urllib' and 'http.client' for the HTTP requests, and it uses the `lxml` library for parsing the HTML content of YouTube pages.
 
 With Pytube, you can download YouTube videos programmatically and use them in your projects. This can be useful for tasks like creating a video dataset for machine learning or downloading videos for offline viewing.
 
